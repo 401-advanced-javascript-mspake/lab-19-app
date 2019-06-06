@@ -1,7 +1,6 @@
 'use strict';
 
 const readWrite = require('../utils/read-write.js');
-const events = require('../utils/events.js');
 const client = require('@nmq/q/client');
 
 /**
