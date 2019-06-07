@@ -6,7 +6,7 @@
 ### Author: Morgana Spake  
   
 ### Links and Resources  
-* [submission PR](https://github.com/401-advanced-javascript-mspake/lab-19/pull/1)  
+* [submission PR](https://github.com/401-advanced-javascript-mspake/lab-19-app/pull/1)  
   
 ### Modules  
 #### `read-write.js, app.js`  
@@ -24,4 +24,4 @@ Run app from its folder:
 * What assertions need to be / should be made?  All of them.  
   
 #### UML  
-![uml](https://github.com/401-advanced-javascript-mspake/lab-18/blob/refactor-app-with-nmq/assets/uml.jpg)
+![uml](https://github.com/401-advanced-javascript-mspake/lab-19-app/blob/refactor-app-with-nmq/assets/uml.jpg)
